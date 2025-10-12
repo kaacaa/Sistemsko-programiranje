@@ -1,0 +1,15 @@
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\filip\Desktop\Projekti\sistemsko\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\ThinkPad T14s\Desktop\Project2\Project2\obj\Debug\Project2.pdb
