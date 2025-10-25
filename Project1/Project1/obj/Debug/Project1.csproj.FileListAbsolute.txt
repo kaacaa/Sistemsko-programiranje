@@ -21,3 +21,11 @@ C:\Users\ThinkPad T14s\Desktop\Project1\Project1\obj\Debug\Project1.csproj.Sugge
 C:\Users\ThinkPad T14s\Desktop\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
 C:\Users\ThinkPad T14s\Desktop\Project1\Project1\obj\Debug\Project1.exe
 C:\Users\ThinkPad T14s\Desktop\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\ThinkPad T14s\Documents\Fax\3 godina\Sistemsko programiranje\Project1\Project1\obj\Debug\Project1.pdb
